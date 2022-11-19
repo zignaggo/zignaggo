@@ -1,4 +1,4 @@
-Salve! Sou o "Zig"
+Opa, tudo bom? Eu sou o Zig. 
 
 <div align="center" style="display: inline">
     <a href="https://github.com/zignaggo">
